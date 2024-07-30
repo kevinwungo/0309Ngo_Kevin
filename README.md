@@ -6,3 +6,7 @@
 - Focusing on econometrics because I enjoy the challenge it offers.
 - Interested in quantitative finance.
 - Fun fact: I started a marketing business at the age of 17 and scaled it to six figures.
+
+Feel free to reach out to me at:
+- linkedin.com/in/kevinwungo
+- kevinwungopr@gmail.com
