@@ -9,7 +9,7 @@ Hi, my name is Kevin and I'm majoring in economics at the University of Nevada, 
   
 ## Fun Facts
 - Co-founded a marketing business at the age of 17 and scaled it to six figures.
-- Learning Python and Solidity currently
+- Learning Python and SQL currently
 - Favorite Formula 1 team is Scuderia Ferrari.
 - Likes to weightlift.
 
