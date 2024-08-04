@@ -1,9 +1,10 @@
 ## About Me
-Hi, my name is Kevin and I'm majoring in economics at the University of Nevada, Reno. Im interested in banking and finance.
+Hi, my name is Kevin and I'm majoring in economics at the University of Nevada, Reno. I'm interested in quantitative finance.
 
 ## Education
 - University of Nevada, Reno - 2022-2026
 - Truckee Meadows Community College - 2021-2022
+  - Jumpstart Program
 - Robert McQueen High School - 2019-2022
   
 ## Fun Facts
@@ -18,6 +19,6 @@ Hi, my name is Kevin and I'm majoring in economics at the University of Nevada, 
 -  Blockchain
 -  Public Equity Markets
 
-Feel free to reach out to me at:
+Connect With Me:
 - [Linkedin](linkedin.com/in/kevinwungo)
 - kevinwungopr@gmail.com
