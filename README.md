@@ -1,5 +1,5 @@
 ## About Me
-Hi, my name is Kevin and I'm majoring in economics at the University of Nevada, Reno. I'm interested in quantitative finance.
+Hi, my name is Kevin and I'm majoring in economics at the University of Nevada, Reno. I'm interested in quantitative finance and machine learning.
 
 ## Education
 - University of Nevada, Reno - 2022-2026
